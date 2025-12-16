@@ -100,3 +100,42 @@ ago:
   second: '{duration} soniya oldin | {duration} soniyalar oldin'
 askAICrash:
   copyPrompt: AI’dan so‘rash uchun so‘rovni nusxalash
+  description: >-
+    AI sizga o‘yin nosozligini tushunishga yordam bersin! Quyidagi
+    ko‘rsatmalarga amal qiling va AI’dan ushbu o‘yin nosozligi haqida so‘rang!
+  selectPlatform: AI platformasini oching va hozirgina nusxalagan so‘rovingizni joylashtiring.
+authProfileAddedNotification: Avtorizatsiya profili {name} qo‘shildi
+author: Muallif
+back: Orqaga
+baseSetting:
+  title: Instansiya sozlamalari
+browse: Ko‘rib chiqish
+browseApp:
+  createShortcut: Yorliq yaratish
+  default: Standart
+  delete: O‘chirish
+  launch: Ishga tushirish va standart sifatida belgilash
+browseApps: Launcher foydalanuvchi interfeysini ko‘rish
+cancel: Bekor qilish
+checkUpdate:
+  name: Yangilanishni tekshirish
+color: Rang
+confirm: Boshlash
+copyClipboard:
+  success: Buferga nusxalash
+create: Yaratish
+curseforge:
+  authors: Mualliflar
+  category: Kategoriya
+  createdDate: Yaratilgan sana
+  downloadOnly: Yuklab olish
+  file:
+    gameVersion: O‘yin versiyasi
+    modLoader: Mod yuklovchi
+  install: O‘rnatish
+  installTo: '{path} manziliga o‘rnatish'
+  installToStorage: Xotiraga o‘rnatish
+  lastUpdate: So‘nggi yangilanish sanasi
+  project:
+    description: Tavsif
+    files: Fayllar
