@@ -1,0 +1,102 @@
+AppAddInstanceDialog:
+  choiceTitle: >-
+    Bir nechta ishga tushirish profillari aniqlandi. Import qilish uchun
+    bittasini tanlang.
+  configTitle: Konfiguratsiya
+  createTitle: O‘yin yaratish
+  downloadedNotification: '{name} modpaki yuklab olindi. U uchun instansiya yaratishni xohlaysizmi?'
+  serverTitle: Serveringiz manzilini kiriting
+AppShareInstanceDialog:
+  alterDownloadDescription: >-
+    Agar joriy instansiyani buzishni xohlamasangiz, foydalanuvchingiz
+    konfiguratsiyasidan yangi instansiya yaratishingiz mumkin. Instansiya
+    yaratish uchun quyidagi tugmani bosing.
+  baseInfo: Mahalliy sozlamalar
+  cancelShare: Ulashishni bekor qilish
+  description: >-
+    Profilni ulashganingizdan so‘ng, boshqa foydalanuvchilar ushbu fayllarni
+    sizning kompyuteringiz orqali yuklab olishlari mumkin bo‘ladi.
+  downloadDescription: >-
+    Foydalanuvchingiz taqdim etgan fayllarni tekshiring. Yuklab olishni istagan
+    fayllarni tanlang. Ular joriy instansiya {name} ga joylashtiriladi.
+  downloadNotifyTitle: '{user} dan instansiyani yuklab olish'
+  downloadTitle: Boshqa foydalanuvchilardan fayllarni yuklab olish
+  downloadToLocal: Joriy instansiyaga yuklab olish
+  filesToDownload: Yuklab olish uchun fayllarni tanlang
+  filesToShare: Ulashish uchun fayllarni tanlang
+  instanceShare: '{user} hozirgina joriy instansiyani siz bilan ulashdi'
+  share: Ulashish
+  shareNotifyTitle: Instansiyani ulashish
+  shareTitle: O‘yin fayllarini boshqa o‘yinchilar bilan ulashish
+BaseSettingGeneral:
+  title: Umumiy
+FeedTheBeast:
+  search: FTB’da qidirish
+FeedTheBeastProject:
+  changelog: O‘zgarishlar ro‘yxati
+  details: Tafsilotlar
+  install: '{version} ni o‘rnatish'
+  overview: Ko‘rish
+  versions: Versiya
+HomeJavaIssueDialog:
+  incompatibleJava: Mos kelmaydigan Java versiyasi
+  incompatibleJavaHint: >-
+    Joriy Java versiyasi tanlangan Minecraft versiyasi bilan mos kelmasligi
+    mumkin!
+  missingJava: Java mavjud emas
+  missingJavaHint: >-
+    Launcher kompyuteringizda hech qanday Java versiyasini aniqlay olmadi. Siz
+    quyidagilarni qilishingiz mumkin:
+  needDownloadHint: >-
+    Kompyuteringizda mos Java versiyasini topib bo‘lmadi. Yangi versiyani yuklab
+    olish tavsiya etiladi.
+  optionAutoDownload:
+    message: Launcher siz uchun Mojang manbasidan Java’ni yuklab olib, o‘rnatadi.
+    name: Avtomatik yuklab olish
+  optionSelectJava:
+    message: >-
+      Ehtimol, launcher Java versiyangizni topa olmadi. Siz launcher’ga Java
+      qayerda joylashganini ko‘rsatishingiz mumkin.
+    name: Kompyuteringizdagi Java’ni tanlash
+  optionSwitch:
+    disabled: Hozircha ma’lumotlar bazasida Java {version} topilmadi!
+    message: Kompyuteringizdagi mavjud Java {version} versiyasidan foydalanish
+    name: '{version} versiyasiga o‘tish'
+  recommendedVersionHint: '{version} uchun {range} diapazonidagi Java’dan foydalanish tavsiya etiladi.'
+  selectMatchedHint: >-
+    Mos keladigan bir nechta mahalliy Java versiyalari topildi. Siz ushbu
+    mahalliy Java’lardan tanlashingiz mumkin.
+  selectSecondaryHint: >-
+    Bir nechta mahalliy Java versiyalari topildi, ammo ular talablarga mos
+    kelmasligi mumkin. Siz ularni ishga tushirish uchun baribir ishlatishingiz
+    mumkin, biroq ushbu ogohlantirish hali ham ko‘rsatiladi.
+HomeLaunchMultiInstanceDialog:
+  confirm: Ha, ishga tushirish
+  description: >-
+    Siz bir nechta Minecraft nusxalarini ishga tushiryapsiz. Ishonchingiz
+    komilmi?
+  title: Bir nechta nusxa
+HomeSyncDialog:
+  pull: Yuklab olish
+  push: Yuborish
+HomeSyncDialogPull:
+  failText: Yangilanishni olish muvaffaqiyatsiz bo‘ldi. {url}
+  refresh: Yangilash
+  update: Yangilash
+HomeSyncDialogPush:
+  authError: >-
+    Foydalanuvchi autentifikatsiyasi noto‘g‘ri. Iltimos, serverga fayllarni
+    yuklash uchun yetarli huquqlaringiz borligiga ishonch hosil qiling!
+  refresh: Yangilash
+  unknownError: Noma’lum server xatosi. Iltimos, yana bir bor urinib ko‘ring.
+  upload: Nusxani yuklash
+SettingMigrationDialog:
+  selectRootDirectory: Ildiz katalogini tanlash
+add: Qo‘shish
+ago:
+  day: '{duration} kun oldin | {duration} kunlar oldin'
+  hour: '{duration} soat oldin | {duration} soatlar oldin'
+  minute: '{duration} daqiqa oldin | {duration} daqiqalar oldin'
+  second: '{duration} soniya oldin | {duration} soniyalar oldin'
+askAICrash:
+  copyPrompt: AI’dan so‘rash uchun so‘rovni nusxalash
