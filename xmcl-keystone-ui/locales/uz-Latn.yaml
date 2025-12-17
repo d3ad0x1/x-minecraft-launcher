@@ -171,3 +171,69 @@ curseforgeCategory:
   Map Based: Xaritaga asoslangan
   Map and Information: Xaritalar va ma’lumotlar
   Medieval: O‘rta asrlar
+  Mini Game: Mini-o‘yinlar
+  Miscellaneous: Turli xil
+  Mod Support: Modlarni qo‘llab-quvvatlash
+  Modded World: Dunyo uchun mod
+  Modern: Zamonaviy
+  Multiplayer: Ko‘p o‘yinchi
+  Parkour: Parkur
+  Photo Realistic: Realistik fotografiya
+  Puzzle: Boshqotirmalar
+  QoL: QoL
+  Quests: Topshiriqlar
+  Redstone: Redstone
+  Sci-Fi: Ilmiy fantastika
+  Server Utility: Server vositasi
+  Skyblock: SkyBlock
+  Small / Light: Biroz
+  Steampunk: Steampunk
+  Storage: Saqlash
+  Survival: Omon qolish
+  Tech: Texnologiya
+  Technology: Texnologiya
+  Traditional: An’anaviy
+  Twitch Integration: Twitch integratsiyasi
+  Utility & QoL: Yordamchi vositalar va QoL
+  Vanilla+: Vanilla+
+  World Gen: Tinchlik generatori
+dataMigration:
+  apply: Sozlamani qo‘llash
+  directoryCriteriaHint: >-
+    Iltimos, yangi katalog joylashuvi BO‘SH katalog ekanligiga ishonch hosil
+    qiling!
+  migrationDestinationIsFile: Migratsiya manzili fayl! Iltimos, bo‘sh katalogni tanlang!
+  migrationDestinationIsNotEmptyDirectory: >-
+    Migratsiya manzili bo‘sh katalog emas! Iltimos, bo‘sh katalogni
+    tanlaganingizga ishonch hosil qiling!
+  migrationNoPermission: >-
+    Eski katalogni yangi katalogga nomlash uchun ruxsat yo‘q! Iltimos, laun­cher
+    ikkala joyga ham kirish huquqiga ega ekanligiga ishonch hosil qiling!
+  placeholder: Iltimos, katalogni tanlash uchun bu yerga bosing
+  setRootCause: >-
+    Ushbu jarayon davomida Launcherni yopsangiz, ma’lumotlaringiz (Xaritalar,
+    Resurs paketlari, Modlar) yo‘qoladi!
+  setRootDescription: Bu launcher va Minecraft uchun asosiy ma’lumotlar papkasini o‘zgartiradi.
+  setRootTitle: Yangi saqlash joyiga o‘rnatish
+  unknownError: >-
+    Noma’lum xatolik! Iltimos, qayta urinib ko‘ring yoki dasturchi bilan
+    bog‘laning!
+  waitReload: >-
+    Ma’lumotlar ko‘chirilmoqda. Iltimos, Launcherni yopmang, aks holda
+    ma’lumotlaringiz yo‘qoladi.
+delete:
+  name: '{name} ni o‘chirish'
+  'no': Yo‘q
+  'yes': O‘chirish
+dependencies:
+  embedded: Ichki
+  incompatible: Mos kelmaydi
+  name: Bog‘liqliklar
+  optional: Ixtiyoriy
+  required: Majburiy
+description: Tavsif
+detail: Tafsilot
+diagnosis:
+  badInstall:
+    message: Ushbu versiyani qayta o‘rnatib ko‘rish uchun bosing.
+    name: '{version} versiyasida noto‘g‘ri o‘rnatish'
