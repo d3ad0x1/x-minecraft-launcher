@@ -139,3 +139,35 @@ curseforge:
   project:
     description: Tavsif
     files: Fayllar
+    images: Rasmlar
+  recentFiles: So‘nggi fayllar
+  releasedDate: Chiqarilgan sana
+  search: Qidirish
+  totalDownloads: Jami yuklab olishlar
+curseforgeCategory:
+  API and Library: API va kutubxonalar
+  Addons: Qo‘shimchalar
+  Adventure: Sarguzasht
+  Adventure and RPG: Sarguzasht va RPG
+  Animated: Animatsiya
+  Armor, Tools, and Weapons: Zirh, asboblar va qurollar
+  Armor， Tools， and Weapons: Zirh, asboblar va qurollar
+  Combat / PvP: Musobaqalar / PVP
+  Cosmetic: Tashqi ko‘rinish / bezak
+  Creation: Ijodiy rejim
+  Data Packs: Ma’lumotlar paketi
+  Education: Ta’lim
+  Exploration: Razvedka
+  Extra Large: Katta hajm
+  FTB Official Pack: Rasmiy FTB paketi
+  Fabric: Fabric
+  FancyMenu: FancyMenu
+  Font Packs: Shriftlar
+  Food: Oziq-ovqat
+  Game Map: O‘yin kartalari
+  Hardcore: Qattiq rejim
+  MCreator: MCreator
+  Magic: Sehr
+  Map Based: Xaritaga asoslangan
+  Map and Information: Xaritalar va ma’lumotlar
+  Medieval: O‘rta asrlar
