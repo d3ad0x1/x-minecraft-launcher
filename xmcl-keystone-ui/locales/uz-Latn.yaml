@@ -463,3 +463,73 @@ installModpack:
   download:
     file: Faylni yuklab olish
     name: Yuklab olish
+  name: Modpak o‘rnatish
+  unpack: Modpakni ochish
+installModrinthFile:
+  name: Modrinth o‘rnatish
+installOptifine:
+  download: Optifine Universal-ni yuklab olish
+  jar: Jar fayl yaratish
+  json: Json fayl yaratish
+  name: Optifine o‘rnatish
+installResource:
+  fail: '{file} ni o‘rnatib bo‘lmadi'
+  success: '{file} resursi muvaffaqiyatli o‘rnatildi'
+installVersion:
+  jar: Versiya Jar faylini o‘rnatish
+  json: Versiya Json faylini o‘rnatish
+  name: Minecraft mijozini {version} versiyasini o‘rnatish
+instance:
+  addServer: Server qo‘shish
+  changeIcon: Ikonkani o‘zgartirish
+  contents: Сontent
+  current: Joriy instansiya
+  delete: O‘yinni o‘chirish
+  deleteFailed: Instansiyani o‘chirib bo‘lmadi
+  deleteFailedPermission: Boshqa dastur fayldan foydalanyapti
+  deleteHint: Instansiya ma’lumotlari diskdan doimiy o‘chiriladi. Siz aminmisiz?
+  duplicate: O‘yinni ko‘paytirish
+  duplicatedName: Takrorlangan nom
+  fileApi: Fayl serveri API manzilini sinxronlash
+  fileApiHint: >-
+    Masofaviy konfiguratsiya serveridan instansiya fayllarini sinxronlash uchun
+    URL.
+  fullscreen: To‘liq ekran
+  gameVersion: O‘yin versiyasi
+  height: Balandlik
+  icon: Profil ikonkasi
+  iconHint: Ikonka fayl yoki internet URL manzili bo‘lishi mumkin.
+  iconUrl: Ikonka URL
+  includeVersion: Versiyani qo‘shish | Versiyalarni qo‘shish
+  installModpack: Instansiyani modpakdan yangilash
+  lastPlayed: Oxirgi o‘ynalgan
+  launchArguments: Ishga tushirish argumentlari oldindan ko‘rish
+  launchServer: Localhost serverini ishga tushirish
+  linkFileDesc: >-
+    Bu instansiyaning lokal {file} faylini global {file} bilan ustiga yozadi.
+    Uni bog‘lashga ishonchingiz komilmi?
+  linkFileTitle: '{file} faylini bog‘lashga ishonchingiz komilmi?'
+  mcOptions: Minecraft sozlamalari
+  mcOptionsHint: Qo‘shimcha Minecraft ishga tushirish argumentlari
+  name: Profil nomi
+  nameHint: Modpak nomi
+  nameNoCyrillic: Nomi kirill harflarini o‘z ichiga ololmaydi
+  neverPlayed: Hech qachon o‘ynalmagan
+  openCrashReportFolder: Crash report papkasini ochish
+  openLogFolder: Log papkasini ochish
+  playtime: O‘ynash vaqti
+  preExecCommand: Oldindan bajariladigan buyruq
+  preExecCommandHint: Minecraft-ni ishga tushirishdan oldin bajariladigan buyruq
+  prependCommand: Buyruqni oldiga qo‘shish
+  prependCommandHint: Bu buyruqni barcha ishga tushirish buyruqlari oldiga qo‘shadi
+  requireName: Nomi kiritilishi shart
+  resolution: Ekran o‘lchami
+  resolutionEnabled: Maxsus o‘lchamni yoqish
+  resolutionPreset: Ekran o‘lchami shabloni
+  showInstance: O‘yinning papkasini ko‘rsatish
+  updates: Yangilanishlar
+  useSharedOptions: Ummumiy o‘yin sozlamalaridan foydalanish
+  useSharedOptionsDesc: Bu options.txt faylini instansiyalar bo‘ylab umumiy faylga bog‘laydi
+  useSharedServersList: Ummumiy serverlar ro‘yxatidan foydalanish
+  useSharedServersListDesc: Bu servers.dat faylini instansiyalar bo‘ylab umumiy faylga bog‘laydi
+  versionHint: Ushbu o‘yinning Minecraft versiyasi
