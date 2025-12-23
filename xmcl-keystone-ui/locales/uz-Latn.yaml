@@ -237,3 +237,229 @@ diagnosis:
   badInstall:
     message: Ushbu versiyani qayta o‘rnatib ko‘rish uchun bosing.
     name: '{version} versiyasida noto‘g‘ri o‘rnatish'
+  corruptedAssets:
+    message: Launcher kerakli resurslarni siz uchun o‘rnatadi
+    name: >-
+      Buzilgan resurs: {name} | Buzilgan resurs {name} | {count} ta resurs
+      buzilgan
+  corruptedAssetsIndex:
+    message: Launcher resurslar indeksini siz uchun yuklab oladi
+    name: '{version} versiyasining resurslar indeks fayli buzilgan.'
+  corruptedLibraries:
+    message: Launcher kutubxonalarni siz uchun o‘rnatadi
+    name: >-
+      Buzilgan kutubxona: {name} | Buzilgan kutubxona: {name} | {count} ta
+      kutubxona buzilgan
+  corruptedVersionJar:
+    message: Bu versiyani o‘rnatish uchun bosing
+    name: Minecraft %{version} uchun versiya JAR fayli buzilgan.
+  corruptedVersionJson:
+    message: Ushbu versiyani o‘rnatish uchun bosing
+    name: '%{version} versiyasining JSON fayli buzilgan.'
+  incompatibleJava:
+    message: Uni yuklab berishi uchun Launcherdan so‘rashingiz mumkin.
+    name: '{javaVersion} Java versiyasi {version} uchun mos emas!'
+  instanceFiles:
+    description: Instansiya o‘rnatilishi {counts} ta faylni o‘z ichiga oladi.
+    title: Instansiya o‘rnatilishi tugallanmagan
+  invalidJava:
+    message: Ishga tushirish uchun boshqa Java’dan foydalanish uchun bosing
+    name: Java joylashuvi noto‘g‘ri.
+  missingAssets:
+    message: Launcher kerakli resurslarni siz uchun o‘rnatadi
+    name: >-
+      Yetishmayotgan resurs: {name} | Yetishmayotgan resurs: {name} | %{count}
+      ta resurs yetishmayapti
+  missingAssetsIndex:
+    message: Launcher resurslar indeksini siz uchun yuklab oladi
+    name: '{version} versiyasi uchun resurslar indeks fayli yetishmayapti.'
+  missingJava:
+    message: Ushbu muammoni hal qilish uchun bosing
+    name: Minecraft’ni ishga tushirish uchun Java topilmadi!
+  missingLibraries:
+    message: Launcher kutubxonalarni siz uchun o‘rnatadi
+    name: >-
+      Yetishmayotgan {name} kutubxonasi | Yetishmayotgan {name} kutubxonasi |
+      {count} ta kutubxona yetishmayapti | {count} ta kutubxona yetishmayapti
+  missingVersion:
+    message: Ushbu versiyani o‘rnatish uchun bosing
+    name: '{version} versiyasi o‘rnatilmagan!'
+  missingVersionJar:
+    message: Ushbu versiyani o‘rnatish uchun bosing
+    name: Minecraft %{version} uchun versiya JAR fayli yetishmayapti
+  unzipFileNotFound:
+    description: '{file} topilmadi'
+    title: Modpak fayli topilmadi
+difficulty:
+  easy: Oson
+  hard: Qiyin
+  normal: Oddiy
+  peaceful: Tinch
+disable: O‘chirish
+disk:
+  available: Mavjud
+  used: Ishlatilgan
+download: Yuklab olish
+downloadCount: '{count} ta yuklab olish'
+downloadUpdate: Yangilanishni yuklab olish
+duration:
+  day: '{duration} kun | {duration} kunlar'
+  hour: '{duration} soat | {duration} soatlar'
+  minute: '{duration} daqiqa | {duration} daqiqa'
+  name: '{name}ni o‘chirish'
+  'no': Yo‘q
+  second: '{duration} soniya | {duration} soniya'
+  'yes': Ha, janob.
+edit: Tahrirlash
+enable: Yoqish
+env:
+  select:
+    all: Barchasini tanlash
+    fit: Mosini tanlash
+    none: Hech birini tanlamaslik
+error:
+  name: Xato | Xatolar
+errors:
+  BadForgeInstallerJarError: >-
+    Forge o‘rnatish JAR faylini tahlil qilib bo‘lmadi. Ehtimol, Forge yangi
+    o‘rnatish fayli formatiga ega. Agar muammo saqlanib qolsa, dasturchilar
+    bilan bog‘laning.
+  BadInstanceType: 'Yaroqli instansiya emas: {type}'
+  BodyTimeoutError: HTTP body uchun kutish vaqti tugadi
+  ChecksumNotMatchError: 'Nazorat summasi mos kelmadi! Kutilgan: {expect}. Amaldagi: {actual}.'
+  ConnectTimeoutError: Server bilan ulanish vaqti tugadi.
+  DNSNotFoundError: DNS qidiruvi xatosi
+  DatabaseNotOpened: >-
+    Ma’lumotlar bazasi ochilmadi! Launcher to‘g‘ri ishlamaydi! Iltimos, launcher
+    kira oladigan ma’lumotlar katalogini tanlang. Sozlamalar sahifasida
+    ma’lumotlar ildizini qayta o‘rnatib ko‘rishingiz mumkin.
+  DiskIsFull: >-
+    Diskingiz to‘lib qolgan! Diskka hech narsa yozib bo‘lmaydi! Barcha
+    funksiyalar to‘liq ishlamasligi mumkin!
+  DownloadAggregateError: Faylni yuklab olish amalga oshmadi.
+  DownloadFileSystemError: >-
+    Yuklab olinadigan fayl yo‘liga murojaat qilishda xatolik yuz berdi. Iltimos,
+    launcher ushbu joyga yozish huquqiga ega ekanligiga ishonch hosil qiling.
+  HeadersTimeoutError: HTTP header uchun kutish vaqti tugadi
+  NotFoundError: 404 Topilmadi
+  SocketError: Server soket xatosi
+eula:
+  body: >-
+    Belgilash katakchasini belgilash orqali siz Minecraft’ning {eula}
+    shartlariga roziligingizni bildirasiz.
+exception:
+  http: >-
+    {url} manziliga yuborilgan HTTP so‘rovi bajarilmadi. Holat kodi:
+    {statusCode}. {code}. Iltimos, qayta urinib ko‘ring yoki tarmog‘ingizni
+    tekshiring. Agar ushbu xato saqlanib qolsa, dasturchilar jamoasiga hisobot
+    yuboring.
+existed: Mavjud
+exportModpackTarget:
+  curseforge: CurseForge fayli
+  github: GitHub fayli
+  modrinth: Modrinth fayli
+  override: Override (Raw) fayli
+extensions:
+  mrpack: Modrinth modpaki
+  zip: ZIP fayli
+fabricVersion:
+  disable: Fabric’ni o‘chirish
+  empty: Minecraft {version} uchun Fabric versiyasi mavjud emas
+  showSnapshot: Snapshot’larni ko‘rsatish
+  stable: Stabil
+  unstable: Beqaror
+feedback:
+  channel: Kanallar
+  description: Men xatolik topdim yoki taklif bildirmoqchiman
+  discord: Discord
+  discordDescription: Discord kanaliga qo‘shilish
+  discordJoin: Qo‘shilish
+  generateReport: Hisobot yaratish
+  generateSaveAs: Hisobotni saqlash joyi
+  github: GitHub muammosi
+  githubDescription: Fikringizni bildirish uchun GitHub’da Issue oching
+  githubOpenIssue: Github
+  hint: >-
+    Hisobot yaratish va dasturchilar jamoasi bilan bog‘lanish uchun tugmani
+    bosing. Hisobotda qurilmangiz haqidagi ma’lumotlar, jumladan operatsion
+    tizim turi, versiyasi, foydalanuvchi nomi (operatsion tizimingizda) va
+    boshqa ma’lumotlar bo‘ladi.
+  kook: Kook
+  kookDescription: >-
+    Kook — Xitoy materik qismidagi foydalanuvchilar uchun Discord’ga muqobil
+    ilova
+  name: Fikr-mulohaza
+  qq: QQ guruhi
+  qqDescription: >-
+    Fikr-mulohaza uchun QQ guruhiga kiring va mualliflar bilan bevosita muloqot
+    qiling. Guruh raqami: {number}
+  qqEnterGroup: Qo‘shilish
+fileDetail:
+  fileSize: Fayl hajmi
+  filesize: Fayl hajmi
+  hash: Hash
+filter: Filtr
+filterLocalOnly: Faqat o‘rnatilganlarni ko‘rsatish
+finish: Yakunlash
+forgeConfig:
+  hint: >-
+    Iltimos, ushbu mod bilan o‘yinni kamida bir marta ishga tushiring, shunda
+    uning sozlama faylini aniqlashimiz mumkin!
+forgeVersion:
+  common: Umumiy
+  disable: Forge’ni o‘chirish
+  empty: Forge’da Minecraft {version} uchun hech qanday reliz mavjud emas
+  latest: Eng so‘nggi
+  name: Forge
+  recommended: Tavsiya etilgan
+  showBuggy: Xatoliklarni ko‘rsatish
+  showRecommendedAndLatestOnly: Faqat tavsiya etilgan va eng so‘nggi
+  version: Forge versiyasi
+gameType:
+  adventure: Sarguzasht rejimi
+  creative: Ijodiy rejim
+  spectator: Kuzatuvchi rejimi
+  survival: Omon qolish rejimi
+help: Yordam
+home: Bosh sahifa
+importModpack:
+  failed: '{modpack} ni import qilish muvaffaqiyatsiz tugadi'
+  name: Modpakni import qilish
+  success: '{modpack} muvaffaqiyatli import qilindi'
+importResource: Resursni import qilish
+install: O‘rnatish
+installAssets:
+  asset: '{count} ta resursni o‘rnatish'
+  assetIndex: Resurslar indeks faylini tekshirish
+  name: Resurs fayllarini o‘rnatish
+installAuthlibInjector: authlib-injector’ni o‘rnatish
+installCurseforgeFile: CurseForge faylini o‘rnatish
+installFabric:
+  name: Fabric’ni o‘rnatish
+installForge:
+  downloadInstaller: O‘rnatish dasturini yuklab olish
+  library: '{lib} kutubxonasini o‘rnatish'
+  name: Forge’ni o‘rnatish
+  postProcessing: Post-jarayon
+installInstance:
+  file: 'Instansiya faylini yangilash: {file}'
+  link: '{count} ta faylni nusxalash yoki bog‘lash'
+  name: Instansiyani yangilash
+  resolve: Instansiya konfiguratsiyasini hal qilish
+  unzip: '{count} ta faylni arxivdan chiqarish'
+installJre:
+  decompress: JRE fayllarini papkaga chiqarish
+  download: Siqilgan JRE faylini yuklab olish
+  name: Java Runtime kutubxonasini o‘rnatish
+installLabyMod:
+  asset: '{name} resursini o‘rnatish'
+  json: JSON {version} ni yaratish
+  name: LabyMod’ni o‘rnatish
+installLibraries:
+  library: Kutubxonani o‘rnatish
+  name: Kutubxonalarni o‘rnatish
+installModpack:
+  deploy: Joylashtirish
+  download:
+    file: Faylni yuklab olish
+    name: Yuklab olish
